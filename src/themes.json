@@ -1,0 +1,11 @@
+{
+    "green": {
+		"pouse": "pause-button-svgrepo-com.png",
+		"background": "#1c1c1c",
+		"body": "body.png",
+		"head": "head.png",
+		"food": "food.png",
+		"text": "#ffffff",
+		"tick": ["unticked.png", "unticked2.png", "ticked.png", "ticked2.png"]
+    }
+}
